@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="PayMen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50333193"
+     inkscape:cx="398.34548"
+     inkscape:cy="562.25322"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#008000;stroke-width:0.264583"
+       id="path111"
+       sodipodi:type="arc"
+       sodipodi:cx="76.484062"
+       sodipodi:cy="80.952209"
+       sodipodi:rx="33.905312"
+       sodipodi:ry="33.116814"
+       sodipodi:start="0"
+       sodipodi:end="6.2824551"
+       sodipodi:arc-type="slice"
+       d="M 110.38937,80.952209 A 33.905312,33.116814 0 0 1 76.490252,114.06902 33.905312,33.116814 0 0 1 42.578753,80.964301 33.905312,33.116814 0 0 1 76.465494,47.835401 33.905312,33.116814 0 0 1 110.38936,80.928027 l -33.905298,0.02418 z" />
+    <rect
+       style="fill:#d45500;stroke-width:0.264583"
+       id="rect165"
+       width="93.568138"
+       height="15.769911"
+       x="38.373451"
+       y="78.849556" />
+    <text
+       xml:space="preserve"
+       style="font-size:43.659px;text-align:center;text-anchor:middle;fill:#d45500;stroke-width:1.16944"
+       x="112.50584"
+       y="68.159264"
+       id="text273"
+       transform="scale(1.0896071,0.91776205)"><tspan
+         sodipodi:role="line"
+         id="tspan271"
+         style="stroke-width:1.16944"
+         x="112.50584"
+         y="68.159264">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.5362px;text-align:center;text-anchor:middle;fill:#782121;stroke-width:0.550078"
+       x="195.04257"
+       y="98.498283"
+       id="text331"
+       transform="scale(0.73278862,1.36465)"><tspan
+         sodipodi:role="line"
+         id="tspan329"
+         style="fill:#782121;stroke-width:0.550078"
+         x="195.04257"
+         y="98.498283">(d+y)+(d+y)=0</tspan></text>
+    <rect
+       style="fill:#782121;stroke-width:0.264583"
+       id="rect385"
+       width="34.693806"
+       height="42.578758"
+       x="124.05664"
+       y="159.80177" />
+    <rect
+       style="fill:#241c1c;stroke-width:0.264583"
+       id="rect387"
+       width="68.861946"
+       height="5.2566371"
+       x="107.76105"
+       y="206.58583" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect441"
+       width="34.693806"
+       height="38.899117"
+       x="127.21062"
+       y="219.20177" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect495"
+       width="31.01416"
+       height="36.270794"
+       x="31.01416"
+       y="158.22478" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect497"
+       width="20.500885"
+       height="17.346903"
+       x="74.118584"
+       y="208.68849" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect499"
+       width="31.01416"
+       height="14.718584"
+       x="43.104427"
+       y="273.87079" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect501"
+       width="3.679646"
+       height="68.336281"
+       x="35.745132"
+       y="196.07256" />
+    <rect
+       style="fill:#483737;stroke-width:0.264583"
+       id="rect503"
+       width="31.539822"
+       height="6.3079643"
+       x="39.424778"
+       y="218.15044" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.0553px;text-align:center;text-anchor:middle;fill:#483737;stroke-width:0.430052"
+       x="34.619507"
+       y="120.48182"
+       id="text559"
+       transform="scale(0.8343033,1.1986049)"><tspan
+         sodipodi:role="line"
+         id="tspan557"
+         style="stroke-width:0.430052"
+         x="34.619507"
+         y="120.48182">PayMen</tspan></text>
+  </g>
+</svg>
